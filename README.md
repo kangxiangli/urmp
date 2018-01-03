@@ -3,7 +3,7 @@
 ## Build Setup
 ``` bash
 npm install
-# serve with hot reload at localhost:8088
+# serve with hot reload at localhost:8888
 npm run dev
 npm run build
 ```
