@@ -1,0 +1,24 @@
+
+{
+  "button": {
+    "add": "add",
+    "del": "del",
+    "modify": "modify",
+    "enable": "enable",
+    "disable": "disable"
+  },
+  "table": {
+    "fid": "会员UId",
+    "fbankName": "fbankName",
+    "fownerName": "fownerName",
+    "fbankAddress": "fbankAddress",
+    "fbankNumber": "fbankNumber",
+    "fcreateTime": "fcreateTime",
+    "fstatus": "fstatus",
+    "operate":"operate"
+  },
+  "input":{
+    "search":"please enter the name of the bank"
+  }
+  
+}

@@ -1,0 +1,29 @@
+
+{
+  
+    "button": {
+      "pass": "Audit through",
+      "fail": "Audit not through",
+      "locking":"locking",
+      "Cancellock":"Cancellock",
+      "lockingAll":"lockingAll",
+      "add":"add",
+      "del":"del",
+      "modify":"modify"
+    }
+    ,
+    "table": {
+      "fid": "会员UId",
+      "floginName": "登录名称",
+      "frealName": "真实姓名",
+       "ftelephone": "手机号码",
+      "fidentityNo": "身份证",
+      "fregisterTime ": "注册时间",
+      "operation": "操作"
+    
+    },
+    "input":{
+      "placeholder":"Please enter a member login name"
+    }
+    
+  }

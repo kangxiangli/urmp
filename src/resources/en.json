@@ -1,0 +1,13 @@
+
+  
+  {
+  "langZh": " chinese " ,
+	"langEn": "English " ,
+    "content": "This is some {type} content",
+    "header": {
+      "guide": "Guide000",
+      "components": "Component",
+      "resource": "Resource"
+    }
+  }
+
